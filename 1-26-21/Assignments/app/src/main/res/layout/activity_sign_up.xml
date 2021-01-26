@@ -7,22 +7,17 @@
     android:background="@color/black"
     tools:context=".SignUp">
 
-    <TextView
+    <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="200dp"
-        android:layout_marginLeft="200dp"
         android:layout_marginTop="111dp"
-        android:layout_marginEnd="154dp"
-        android:layout_marginRight="154dp"
         android:text="@string/sign_up"
         android:textSize="20sp"
         android:textColor="@color/white"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        />
 
     <androidx.cardview.widget.CardView
         android:id="@+id/name"
@@ -35,11 +30,11 @@
         android:layout_margin="25dp"
         >
 
-        <EditText
+        <androidx.appcompat.widget.AppCompatEditText
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:hint="Name"
-            android:drawableLeft="@mipmap/name_icon"
+            android:hint="@string/name"
+            android:drawableStart="@mipmap/name_icon"
             android:textColorHint="@color/black"
             android:padding="10dp"
             />
@@ -99,6 +94,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"
             android:text="Create Account"
             android:textColor="@color/black"
             android:layout_marginLeft="120dp"

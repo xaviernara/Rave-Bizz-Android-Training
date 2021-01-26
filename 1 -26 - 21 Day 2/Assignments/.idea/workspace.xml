@@ -24,7 +24,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="533c393b-fc87-4010-bf97-f22bef44f59a" name="Default Changelist" comment="" />
+    <list default="true" id="0f0bcb8c-397b-40c8-be37-2df8e7822f9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/shapes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1-26-21/Assignments/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../1-26-21/Assignments/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1-26-21/Assignments/app/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1-26-21/Assignments/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1-26-21/Assignments/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1-26-21/Assignments/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +46,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1nZv5okAWWk8GoSQLabcXLOA0Rh" />
+  <component name="ProjectId" id="1ncU51EULFLdlkgSdotQTKldYRk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,14 +55,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="android.template.1404768951">
-      <recent name="com.example.calculater" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -66,7 +65,7 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="Calculater.app" />
+      <module name="MaterialSignUp.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -128,11 +127,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="533c393b-fc87-4010-bf97-f22bef44f59a" name="Default Changelist" comment="" />
-      <created>1611610246713</created>
+      <changelist id="0f0bcb8c-397b-40c8-be37-2df8e7822f9e" name="Default Changelist" comment="" />
+      <created>1611688685990</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611610246713</updated>
+      <updated>1611688685990</updated>
     </task>
     <servers />
   </component>
@@ -146,19 +145,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="200" y="110" key="#PSD" timestamp="1611673560337">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="200" y="110" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1611673560337" />
-    <state x="527" y="154" key="AndroidCreateXmlResourceDialog" timestamp="1611634757179">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="527" y="154" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1611634757179" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1611611609885">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1611611609885" />
   </component>
 </project>
